@@ -1,0 +1,11 @@
+name: snowBallWar
+version: 0.1
+description: Mini-jeux snowBallWar
+author: Amosar
+
+main: com.trafalcraft.snowBallWar.Main
+
+commands:
+   snowBallWar:
+     description: Base command for the snowBallWar plugin.
+     aliases: [sbw]
